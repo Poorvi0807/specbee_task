@@ -12,7 +12,7 @@ Clone the repo:
 
 bash
 -- Copy code
-git clone https://github.com/aanurag007/specbee.git
+git clone https://github.com/Poorvi0807/specbee_task.git
 Open index.html in your browser to view.
 
 ## Usage
